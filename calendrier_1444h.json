@@ -6,8 +6,8 @@
     "active" : true,
     "members" : [
       {
-        "name" : "Molecule Man",
-        "age" : 29,
+        "name" : "louai zehda",
+        "age" : 13,
         "secretIdentity" : "Dan Jukes",
         "powers" : [
           "Radiation resistance",
@@ -16,8 +16,8 @@
         ]
       },
       {
-        "name" : "Madame Uppercut",
-        "age" : 39,
+        "name" : "aymen zehda",
+        "age" : 05,
         "secretIdentity" : "Jane Wilson",
         "powers" : [
           "Million tonne punch",
@@ -26,8 +26,8 @@
         ]
       },
       {
-        "name" : "Eternal Flame",
-        "age" : 1000000,
+        "name" : "zeineb halfaya",
+        "age" : 37,
         "secretIdentity" : "Unknown",
         "powers" : [
           "Immortality",
