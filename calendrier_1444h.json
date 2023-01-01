@@ -24,18 +24,6 @@
           "Damage resistance",
           "Superhuman reflexes"
         ]
-      },
-      {
-        "name" : "zeineb halfaya",
-        "age" : 37,
-        "secretIdentity" : "Unknown",
-        "powers" : [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
-        ]
-      }
+      },      
     ]
   }
