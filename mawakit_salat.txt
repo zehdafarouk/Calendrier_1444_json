@@ -1,6 +1,6 @@
 {
   "settings": {
-    "_prayerTimesUrl": "https://raw.githubusercontent.com/farzehadz1/salati.json/refs/heads/main/times.json"
+    "https://raw.githubusercontent.com/zehdafarouk/Calendrier_1444_json/refs/heads/main/mawakit_salat.txt"
   },
   "cities": {
     "الجزائر": {
