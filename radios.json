@@ -1,0 +1,14 @@
+{
+  "radios": [
+    {
+      "name": "إذاعة القرآن الكريم الجزائر",
+      "logo": "assets/icons/coran.png",
+      "stream": "https://radioelbahdja.ice.infomaniak.ch/coran.mp3"
+    },
+    {
+      "name": "إذاعة القرآن الكريم",
+      "logo": "assets/icons/coran.png",
+      "stream": "https://radiocoran.ice.infomaniak.ch/coran.mp3"
+    }
+  ]
+}
